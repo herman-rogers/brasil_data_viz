@@ -1,0 +1,12 @@
+name: brasil_data_viz
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.5
+  - anaconda
+  - pip
+  - matplotlib
+  - numpy
+  - scipy
+  - pandas
+  - openpyxl
